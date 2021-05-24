@@ -57,6 +57,12 @@
     background: #ccc;
 }
 
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    /*border-bottom: 1px dotted #ccc;*/
+}
+
 /**FORAMTAÇÃO DE MENU**/
 a {
     text-decoration: none;    
