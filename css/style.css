@@ -27,7 +27,6 @@
     padding: 15px;
 }
 
-
 #area-postagens {
     width: 660px;
     float: left;
@@ -54,7 +53,7 @@
     clear: both; /** remove o elemento flutuante acima (area-post, area-lateral) **/
     text-align: center;
     padding: 15px;
-    background: #ccc;
+    background: #f7b600;
 }
 
 .postagem-lateral {
@@ -97,6 +96,11 @@ a:hover {
 
 .branco {
     color: white;
+}
+
+.amarelo{
+    color: #f7b600;
+    font-size: 1.8em;
 }
 
 .titulo-post {
